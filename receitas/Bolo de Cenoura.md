@@ -1,6 +1,6 @@
 # **Bolo de Cenoura** :coffee:
 
-### Ingridientes:
+### Ingredientes:
 
 - 1/2 xícara de manteiga sem sal derretida (100g);
 - 3 ovos;
@@ -31,6 +31,8 @@
 1. Coloque todos os ingredientes em uma panela. Em temperatura média-alta mexa com uma espátula até engrossar.
 2. Despeje a calda sobre o bolo e se preferir finalize com raspas de chocolate;
 3. Sirva com café (fica sensacional)
+
+##### _by: Beca Milano_
 
 ### _Fim_
 

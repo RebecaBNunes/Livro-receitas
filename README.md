@@ -4,3 +4,4 @@ Olá, seja bem vindo ao meu Livro de Receitas. Aqui você irá encontrar receita
 
 - Pastelão de Frango;
 - Strogonoff de Frango;
+- Bolo de Cenoura;
