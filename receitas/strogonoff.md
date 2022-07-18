@@ -22,10 +22,10 @@
 
 ### Modo de Preparo:
 
-- Preparo do frango: em uma panela, cozinhe o frango a gosto e em seguida, desfie-o.
-- Em uma panela, misture o frango, o alho, a cebola, o sal e o creme de leite.
-- Em seguida, ainda na panela, adicione as azeitonas e o milho e ervilha. Depois espere dourar.
-- Sirva com arroz branco e batata palha.
+1. Preparo do frango: em uma panela, cozinhe o frango a gosto e em seguida, desfie-o.
+2. Em uma panela, misture o frango, o alho, a cebola, o sal e o creme de leite.
+3. Ainda na panela, adicione as azeitonas e o milho e ervilha. Depois espere dourar.
+4. Sirva com arroz branco e batata palha.
 
 ### _Fim_
 
